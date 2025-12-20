@@ -1,6 +1,10 @@
 # General Agent（iBot）
 
-一个基于 Next.js 的通用智能体组件，集成了RAG（检索增强生成），Observable（可观测），Pipline（自动化流水线）。
+一个基于 Next.js 的通用智能体组件
+
+- 集成了RAG（检索增强生成）
+- Pipline（自动化流水线）
+- Observable（可观测）
 
 ## 📋 目录
 
