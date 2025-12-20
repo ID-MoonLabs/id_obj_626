@@ -95,8 +95,8 @@ id_obj_626/
 
 ```bash
 # 克隆项目
-# git clone <repository-url>
-# cd id_obj_626
+git clone <repository-url>
+cd id_obj_626
 
 # 安装依赖
 yarn install
