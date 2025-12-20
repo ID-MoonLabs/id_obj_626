@@ -8,8 +8,8 @@ const inter = Inter({
 });
 
 export const metadata: Metadata = {
-  title: "RAG知识库系统",
-  description: "企业本地RAG知识库系统",
+  title: "南网智能体v1.0",
+  description: "南网智能体v1.0",
 };
 
 export default function RootLayout({
