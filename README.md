@@ -49,7 +49,7 @@
 - **语言**: TypeScript 5
 - **UI 库**: React 19.2.1
 - **样式**: Tailwind CSS 4
-- **组件库**: HeroUI (@heroui/react) 2.0.0
+- **组件库**: BaseUI 12.0.0
 - **HTTP 客户端**: 原生 Fetch API
 - **动画**: Framer Motion 11.0.0
 - **图标**: Lucide React 0.446.0
@@ -343,7 +343,7 @@ Content-Type: application/json
 - 使用 TypeScript 进行类型检查
 - 遵循 React Hooks 最佳实践
 - 使用 Tailwind CSS 进行样式设计
-- 组件使用 HeroUI 作为基础 UI 库
+- 组件使用 BaseUI 作为基础 UI 库
 - 使用函数式组件和 Hooks
 
 ### 添加新功能
@@ -356,7 +356,7 @@ Content-Type: application/json
 ### 项目说明
 
 - **单页面应用**：当前所有功能都在 `src/app/page.tsx` 中实现
-- **组件化**：UI 使用 HeroUI 组件库，可以提取为独立组件
+- **组件化**：UI 使用 BaseUI 组件库，可以提取为独立组件
 - **状态管理**：使用 React Hooks 进行状态管理
 - **类型安全**：使用 TypeScript 接口定义数据结构
 

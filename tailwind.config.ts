@@ -81,7 +81,6 @@ const config: Config = {
   },
   plugins: [
     require("tailwindcss-animate"),
-    require("@heroui/react/tailwind"),
   ],
 };
 
